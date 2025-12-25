@@ -1,2 +1,2 @@
-# regressia_public_plushplus-
+# Plushy+ - Resources
 Resources for Plushy+
